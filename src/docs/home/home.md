@@ -2,21 +2,22 @@
 
 I am a software developer.
 
-[Hire me?](https://google.com)
+[Hire me?](https://drive.google.com/file/d/1UlIvDZqMpFQKSXhfxA5vsfRaxAbQuEyv/view?usp=sharing)
 
 <br/>
 
 
-:computer: [softwares](https://google.com) : this is a list of softwares I am working on in my free time
+:computer: [softwares](https://github.com/thedevwonder) : this is a list of softwares I am working on in my free time
 <br/>
-:ledger: [blogs](https://google.com): random write ups on my daily learnings and observation.
+:ledger: [blogs](#blogs): random write ups on my daily learnings and observation.
 <br/>
 
 #### Social Media
 
-*  [] [Mail](yashasvap@gmail.com)
-*  [] [Twitter](yashasvap@gmail.com)
-*  [] [LinkedIn](yashasvap@gmail.com)
-*  [] [Instagram](yashasvap@gmail.com)
+*  [] [Mail](mailto:yashasvap@gmail.com)
+*  [] [Twitter](https://twitter.com/YashasvaP)
+*  [] [LinkedIn](https://www.linkedin.com/in/yashasva-paras/)
+*  [] [Github](https://github.com/thedevwonder)
+*  [] [Instagram](https://www.instagram.com/yashasva_paras/)
 
 

@@ -1,16 +1,25 @@
 import React from "react";
-
-import { Markdown } from "./components/markdown";
-import { Page } from "./components/page";
-import { CreateHome, CreatePosts } from "./imports";
-
-// import routerTree from "./app/routerTree";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { Home } from "./components/home";
+import { Posts } from "./components/posts";
 
 const App = () => {
+  const router = createBrowserRouter([
+    {
+      path: "/home",
+      element: <Home />,
+      children: [
+        {
+          path: "posts",
+          element: <Posts />,
+        },
+      ],
+    },
+  ]);
   return (
     <div className="page">
-      <CreateHome/>
-      <CreatePosts/>
+      <Home/>
+      <Posts/>
     </div>
   );
 };
