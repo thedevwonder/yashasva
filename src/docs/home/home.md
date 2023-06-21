@@ -9,7 +9,7 @@ I am a software developer.
 
 :computer: [softwares](https://github.com/thedevwonder) : this is a list of softwares I am working on in my free time
 <br/>
-:ledger: [blogs](#blogs): random write ups on my daily learnings and observation.
+:ledger: [blogs](https://thedevwonder.github.io/blogs/#/): random write ups on my daily learnings and observation.
 <br/>
 
 #### Social Media
